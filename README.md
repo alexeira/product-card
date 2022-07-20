@@ -3,6 +3,9 @@
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+This is the first Front End mentor challenge I did, 
+
+It made me realize a lot of things, how some properties like **box-shadow** or **logical properties** really work.
 
 The solution was made with **HTML** and **CSS**.
 
