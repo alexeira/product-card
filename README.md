@@ -10,8 +10,4 @@ The solution was made with **HTML** and **CSS**.
 
 Here are screenshots of the results for the widths 1440px for desktop and 375px for mobile respectively.
 
-## 1440px desktop
-![Design of desktop result](./screenshots/desktop-preview.png)
-
-## 375px mobile
-![Design of mobile result](./screenshots/mobile-preview.png)
+![Design of desktop result](./screenshots/desktop-preview.png) ![Design of mobile result](./screenshots/mobile-preview.png)
